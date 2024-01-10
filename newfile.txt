@@ -1,3 +1,7 @@
 This is new file which is not so clear to fiot hter
 not so sure what is it is?:wq
+<<<<<<< HEAD
 :wq
+=======
+
+>>>>>>> aa50afb (modified again)
